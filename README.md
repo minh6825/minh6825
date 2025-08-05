@@ -39,9 +39,7 @@ I'm open to working on:
 ---
 
 ## 📫 Contact Me
-- Email: **minh6825.dev@gmail.com**
-- LinkedIn: [linkedin.com/in/minh6825](https://linkedin.com/in/minh6825)
-- Portfolio: [minh6825.dev](https://minh6825.dev) *(if available)*
+- Email: **minhnqdeveloper@gmail.com**
 
 ---
 
