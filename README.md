@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minh (@minh6825)
+# 👋 Hi, I'm hide@on.bush
 
 🚀 A passionate **Fullstack Web Developer** with strong focus on **TypeScript**, **NestJS** (Backend), and **Next.js** (Frontend).  
 I love building modern, scalable web applications and learning cutting-edge technologies that solve real-world problems.
